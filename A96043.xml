@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of his Excellency the Lord Admiral Vantrump, touching the royal fort of monarchy, the King of Scots, and the D. of York: sent to the King of Denmark, and the Q. of Sweden: with his desires thereupon; his resolution touching England; and the answer of their Royal Highnesses thereunto. The advance of Vantrump towards the Downs; a great victory obtained; the particulars of the fight; and the bloudy proceedings of the Dutch against the English; with their stripping and whipping them; and afterwards washing them with vinegar and salt.</title>
+            <author>Tromp, Maarten Harpertsz., 1598-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96043</idno>
+            <idno type="STC">Wing V99</idno>
+            <idno type="STC">Thomason E671_8</idno>
+            <idno type="STC">ESTC R207063</idno>
+            <idno type="EEBO-CITATION">99866137</idno>
+            <idno type="PROQUEST">99866137</idno>
+            <idno type="VID">166232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166232)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E671[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of his Excellency the Lord Admiral Vantrump, touching the royal fort of monarchy, the King of Scots, and the D. of York: sent to the King of Denmark, and the Q. of Sweden: with his desires thereupon; his resolution touching England; and the answer of their Royal Highnesses thereunto. The advance of Vantrump towards the Downs; a great victory obtained; the particulars of the fight; and the bloudy proceedings of the Dutch against the English; with their stripping and whipping them; and afterwards washing them with vinegar and salt.</title>
+                  <author>Tromp, Maarten Harpertsz., 1598-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166232:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF HIS EXCELLENCY THE Lord Admiral VANTRUMP, Touching the Royal Fort of Monarchy, the King of Scots, and the D. of York: ſent to the King of Den<g ref="char:EOLhyphen"/>mark, and the Q. of Sweden: With his deſires thereupon; his Reſolution touching England; and the Anſwer of their Royal Highneſſes thereunto.</p>
+            <p>The advance of Vant<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ump towards the Downs; A gr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t Victory obtained; the particulars of the fight; And the bloudy procee<g ref="char:EOLhyphen"/>dings of the Dutch againſt the Engliſh; with their ſtripping and whipping them; and afterwards waſhing them with Vinegar and Salt.</p>
+            <figure>
+               <figDesc>depiction of the English lion rampant</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166232:2"/>
+            <pb n="3" facs="tcp:166232:2"/>
+            <head>A Declaration of the Lord Admiral Van<g ref="char:EOLhyphen"/>trump, touching the King of Scots, the Duke of York, and the Royal Fort of Monarchy: ſent to the Kings of Den<g ref="char:EOLhyphen"/>mark, France, and the Queen of Sweden; With his ardent deſires thereupon; his Reſolution touching England; and the Promiſe of the ſaid Chriſtian Princes.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N the 15 inſtant Vantrump called a Coun<g ref="char:EOLhyphen"/>cel aboard his Navy, to adviſe and conſult of their Maritine Affairs, and to attempt ſome ſudden Action, if poſſible, upon the Engliſh: whereupon, it was mutually aſſented to, that the Navy (conſiſting of one hundred Men of War, beſides Fire-ſhips) ſhould be divided into two
+<pb n="4" facs="tcp:166232:3"/>Squadrons, with a Reſolution to attend the motion of the Engliſh in the Downs, and fall upon, ſink, burn, and deſtroy them; as alſo to way-lay and intercept all others that ſhall come to joyn with them.</p>
+            <p>'Tis ſaid he hath ſent a Meſſage and Declaration to the King of Denmark, and the Queen of Sweden, wherein he gives a demonſtration to their Highneſ<g ref="char:EOLhyphen"/>ſes, of the juſt Grounds and Reaſons of the preſent Engagement of the Low-Countries againſt Eng<g ref="char:EOLhyphen"/>land; proteſting his innocency, from having any deſign or intention, to ſtrike at the Royal Fort of Monarchy; but ſhall to the utmoſt of his power in<g ref="char:EOLhyphen"/>deavor the ſupport and preſervation thereof; and augment the ſplendor of the Crown in its full ori<g ref="char:EOLhyphen"/>ent brightneſs.</p>
+            <p>In order whereunto he deſires and implores their aid and aſſiſtance even in this juncture of time; but the King of Denmark ſeemes to wave it, by reaſon of the Treaty with the Parliament. The Queen ac<g ref="char:EOLhyphen"/>cords thereunto; and bath ſent a Letter to the King of France to be aſſiſting-therein, eſpecially for the reſtoration of the King of Scots, &amp;c.</p>
+            <p>This is with great alacrity reſcented by the Roy<g ref="char:EOLhyphen"/>all party; and Vantrump ſeemes to declare for the intereſt of that Family; which buſineſs is carryed
+<pb n="5" facs="tcp:166232:3"/>on with a very high hand by Count William of Naſſaw, Couſing to the Prince of Orange; which the Boors perceiving, arm themſelves apace, and grow very deſperate, declaring, That if the Eſtates do not immediatly and vigorouſly proceed on in the War againſt England, that they will pull them out of their houſes headlong, and make them great<g ref="char:EOLhyphen"/>er Preſidents to the world, then they did the Eng<g ref="char:EOLhyphen"/>liſh in the Indies; which great affronts and injuries, or rather contumelies, are not to be parallel'd in any Age; for the Dutch moſt inſolently bound the Eng<g ref="char:EOLhyphen"/>liſh to ſtakes, with ropes about their necks, throtling ſome of them therewith, and flouriſhing their naked ſwords about them, as if they would preſently have diſpatched them; then taking them ſo amazed and bound, and tumbling them down the Rocks, and af<g ref="char:EOLhyphen"/>ter carrying their cruſhed and bruiſed carkaſes away in irons. They have exceedingly inſulted by uſurp<g ref="char:EOLhyphen"/>ing ſoveraignty to inſlave the Engliſh; and have executed many cruel Sentences, ſeizing of the Eng<g ref="char:EOLhyphen"/>liſh Companies goods, fining, impriſoning, ſtock<g ref="char:EOLhyphen"/>ing, yea whipping the Engliſh at a poſt in the open Market-place, and after waſhing them with vinegar and ſalt. O monſtrous! and unheard of cruelties! acted againſt them, who have diſputed their Title, when the loſs of brave Sidney, and many others.</p>
+            <closer>
+               <dateline>Bril, <date>July 19. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="report_from_the_Navy">
+            <pb n="6" facs="tcp:166232:4"/>
+            <head>Advertiſements from the Navy.</head>
+            <p>On the 15 inſtant, his Excellency Ge<g ref="char:EOLhyphen"/>neral Blake having received Advertiſe<g ref="char:EOLhyphen"/>ments of a great Fleet of ſhips, under ſayl Northwards, ſuppoſed them to be Hans, deſigned for the relief and ſafety of the Fle<g ref="char:EOLhyphen"/>miſh Buſſes: whereupon, Major Bourn was commanded forth with ſeven Scouts, to make a diſcovery thereof; and coming with<g ref="char:EOLhyphen"/>in a League of them, found them to be men of War, having their ſtreamers, Jacks, and bloudy Flags all forth; Admiral Hantz being Commander in chief, ſelected forth Ten chief ſhips, to give Us a revengeful ſa<g ref="char:EOLhyphen"/>lute; which Major Bourn perceiving, pre<g ref="char:EOLhyphen"/>pared to receive them, ſending the Saphir back to the General, to haſten up the reſt: the Dutchmen being exceedingly inraged, with great fury bore up to us, with their Pendants flying, and Thunder-like their broad ſides they let flye; we anſwer'd them again, putting forth our bloudy flags in de<g ref="char:EOLhyphen"/>fiance;
+<pb n="7" facs="tcp:166232:4"/>and in the midſt of our diſpute, each man acting with a moſt heroick mind, our General made up to us with 37 ſayl; which the Dutch Admiral ſeeing, bore up with 40 ſtout ſhips to them; and entring battle, ſa<g ref="char:EOLhyphen"/>luted Us with many great vollies; we rung them the like peals again; and after two ho: diſpute, maintained with great reſolution on both ſides, we came to grapling, in which ac<g ref="char:EOLhyphen"/>tion the Land ſouldiers performed ſingular ſervice, but was ſeveral times blown up and repelled from the Enemies decks; til at laſt the nimble Saphir bore up to the head of their Admiral fired both ſailes and tackling, ſhot her in the Keel; and immediatly upon the next broad ſide ſunk her; at which in<g ref="char:EOLhyphen"/>ſtant, moſt of our ſhips being engaged, the General reſolved to bear up, and to play the Granadoes; the which, was with ſuch dexterity of ſpirit attempted, that in a mo<g ref="char:EOLhyphen"/>ment 5 of their ſhips was fir'd, which could
+<pb n="8" facs="tcp:166232:5"/>by no means be extinguiſh'd; 17 we took; ſunk 9, diſperſed, rent, and torn many of them, but not without loſs; and had not the ſable Curtains of the night prevented, we had made the victory far more glorious; but we are in purſuit, &amp; have ſent 700 priſoners to Dunbar, with ſome ſhips.</p>
+            <closer>
+               <dateline>Aboard the Reformation <date>July 17, 1652.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Since which time, we hear, that he hath taken a<g ref="char:EOLhyphen"/>bout forty Buſſes, four Men of War, and ſunk one, with the loſs of two Frigats. Sir George Carteret begins to proſecute the King of Scots Cauſe with great vigour; and 'tis conceived, will endeavour a conjunction with the Duke of Vandoom High Ad<g ref="char:EOLhyphen"/>miral of France, who with 50 Men of War is ſailed towards the Weſtern coaſt, to fight the Spaniſh for<g ref="char:EOLhyphen"/>ces.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
